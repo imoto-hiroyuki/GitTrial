@@ -1,2 +1,2 @@
 # GitTrial
-Git 練習用だけど内容はマジ
+GitHub 練習用だけど内容はマジ
